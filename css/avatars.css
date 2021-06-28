@@ -1,0 +1,38 @@
+/* Element containing the character name (currently only shows the charCode value) */
+div.character-avatar span.name{
+	display: inline-block;
+	position: absolute;
+	bottom: 6px;
+	left: 0;
+	font-size: 10px;
+	color: black;
+}
+
+/* Avatar list */
+div.character-avatar.linne{ background: url('../images/avatars/Lynne.png'); background-position: -43px -46px; }
+div.character-avatar.linne-y{ background: url('../images/avatars/Kid_Lynne.png'); background-position: -43px -46px; }
+div.character-avatar.cicel{ background: url('../images/avatars/Sissel.png'); background-position: -26px -37px; }
+div.character-avatar.kuneri{ background: url('../images/avatars/Lampada.png'); background-position: -26px -37px; }
+div.character-avatar.killer-jo{ background: url('../images/avatars/Jeego.png'); background-position: -26px -37px; }
+div.character-avatar.sith{ background: url('../images/avatars/Sith.png'); background-position: -59px -94px; background-size: 100% }
+div.character-avatar.sanbou{ background: url('../images/avatars/Homem_azul.png'); background-position: -59px -94px; background-size: 100% }
+div.character-avatar.killer-po{ background: url('../images/avatars/Tengo.png'); background-position: -30px -30px; }
+div.character-avatar.ribbon{ background: url('../images/avatars/Kamila.png'); background-position: -59px -94px; background-size: 100% }
+div.character-avatar.missile{ background: url('../images/avatars/Missile.png'); background-position: -59px -94px; background-size: 100% }
+div.character-avatar.enma{ background: url('../images/avatars/Emma.png'); background-position: -43px -46px; }
+div.character-avatar.eimin{ background: url('../images/avatars/Amelie.png'); background-position: -59px -94px; background-size: 100% }
+div.character-avatar.daijin{ background: url('../images/avatars/Ministro.png'); background-position: -27px -5px; }
+div.character-avatar.keiji-G{ background: url('../images/avatars/Detetive_de_Verde.png'); background-position: -34px -21px; }
+div.character-avatar.keiji-B{ background: url('../images/avatars/Detetive_de_Azul.png'); background-position: -34px -21px; }
+div.character-avatar.doctor{ background: url('../images/avatars/Doutor_Azul.png'); background-position: -64px -38px; }
+div.character-avatar.cubanelle{ background: url('../images/avatars/Cabanela.png'); background-position: -27px -5px; }
+div.character-avatar.kalon{ background: url('../images/avatars/Rindge.png'); background-position: -23px -27px; }
+div.character-avatar.leaflet{ background: url('../images/avatars/Guardiao.png'); background-position: -23px -27px; }
+div.character-avatar.kanri{ background: url('../images/avatars/Doutor_pomba.png'); background-position: -64px -38px; }
+div.character-avatar.cock{ background: url('../images/avatars/Chefe_de_cozinha.png'); background-position: -59px -94px; background-size: 100% }
+div.character-avatar.keikan-A{ background: url('../images/avatars/Policial_1.png'); background-position: -23px -27px; }
+div.character-avatar.keikan-B{ background: url('../images/avatars/Policial_2.png'); background-position: -30px -30px; }
+div.character-avatar.keikan-C{ background: url('../images/avatars/Policial_1.png'); background-position: -29px -27px; }
+div.character-avatar.jawed{ background: url('../images/avatars/Jowd.png'); background-position: -26px -37px; }
+div.character-avatar.soul{ background: url('../images/avatars/Soul.png'); background-position: -59px -94px; background-size: 100% }
+div.character-avatar.none{ background: khaki }
