@@ -29,7 +29,7 @@ div.character-avatar.cubanelle{ background: url('../images/avatars/Cabanela.png'
 div.character-avatar.kalon{ background: url('../images/avatars/Rindge.png'); background-position: -23px -27px; }
 div.character-avatar.leaflet{ background: url('../images/avatars/Guardiao.png'); background-position: -23px -27px; }
 div.character-avatar.kanri{ background: url('../images/avatars/Doutor_pomba.png'); background-position: -64px -38px; }
-div.character-avatar.cock{ background: url('../images/avatars/Chefe_de_cozinha.png'); background-position: -59px -94px; }
+div.character-avatar.cock{ background: url('../images/avatars/Chefe_de_cozinha.png'); background-position: -59px -94px; background-size: 100% }
 div.character-avatar.keikan-A{ background: url('../images/avatars/Policial_1.png'); background-position: -23px -27px; }
 div.character-avatar.keikan-B{ background: url('../images/avatars/Policial_2.png'); background-position: -30px -30px; }
 div.character-avatar.keikan-C{ background: url('../images/avatars/Policial_1.png'); background-position: -29px -27px; }
