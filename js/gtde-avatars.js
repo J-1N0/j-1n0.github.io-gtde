@@ -56,7 +56,7 @@ gtde.avatars = {
 		'204': 'doctor',
 		'206': 'rindge',
 		'208': 'memry',
-		'211': 'doutor-pombo',
+		'211': 'kanri',
 		'214': 'dandy',
 		'217': 'beauty',
 		'220': 'bartender',
