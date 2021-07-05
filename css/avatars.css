@@ -9,7 +9,7 @@ div.character-avatar span.name{
 }
 
 /* Avatar list */
-div.character-avatar.linne{ background: url('../images/avatars/Lynne.png'); background-position: -43px -46px; }
+div.character-avatar.linne{ background: url('../images/avatars/Lynne.png'); background-position: 64px 64px; }
 div.character-avatar.linne-y{ background: url('../images/avatars/Kid_Lynne.png'); background-position: -64px -64px; }
 div.character-avatar.cicel{ background: url('../images/avatars/Sissel.png'); background-position: -26px -37px; }
 div.character-avatar.kuneri{ background: url('../images/avatars/Lampada.png'); background-position: -26px -37px; }
