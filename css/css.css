@@ -138,10 +138,10 @@ td.form-fields textarea.text-field{
 	height: 48px;
 }
 .dialog-preview.block div.text-window{
-	font-family: MP1_EU_TEXT
-	color: #0000A4	
-	width: 256px;
-	height: 48px;
+	font-family: MP1_EU_TEXT;
+	color: #0000A4;
+	width: 220px;
+	height: 45px;
 	position: relative;
 	left: 6px;
 	margin-left: 43px;
